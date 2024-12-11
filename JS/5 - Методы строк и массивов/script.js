@@ -23,8 +23,11 @@ function sum(a, b) {
     return a + b;
 }
 
+//fhdhdfh
+
 console.log(sum(2, 4)); // 6
 console.log(sum('d', 4)); // введенные данные не являются числами
 console.log(sum(1, [2])); // введенные данные не являются числами
 console.log(sum(1)); // введите два параметра
 console.log(sum()); // введите два параметра
+
